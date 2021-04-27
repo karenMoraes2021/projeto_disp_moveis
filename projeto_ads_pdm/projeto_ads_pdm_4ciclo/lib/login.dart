@@ -54,7 +54,7 @@ class Login extends StatelessWidget {
                 else
                   print('Alarm');
               },
-              child: Text('Login'))
+              child: Text('Entrar'))
         ]),
       ),
     );
